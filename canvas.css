@@ -1,0 +1,9 @@
+canvas {
+    position: relative;
+    border: 1px solid;
+    background-color: #0ABDE3;
+    background-repeat: no-repeat;
+}
+body {
+    margin: 0;
+}
